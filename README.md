@@ -1,3 +1,5 @@
+![Demo](https://github.com/mansi-manhas/SpaceX-Launches-NextJS/blob/main/SpaceX_Demo.gif)
+
 ## What it contains
 
 I created a basic next.js beginners app using "create-next-app"
